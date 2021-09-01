@@ -5,6 +5,8 @@ Player has to complete four objectives and reach the final destination in order 
 it has a limited health which is shown in health bar and it get depleted if player got attack by enemy soldier 
 and player has to shoot the enemy soldier using its two guns one is assault rifle and second one is sniper rifle.
 
+Full Game Video Link->(https://www.linkedin.com/posts/karmesh-duggar_games-gamedevelopment-gamedesigner-activity-6736939034754482176-kDc5)
+
 # Game Report Document
 -----------
 
